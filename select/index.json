@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "なごり雪",
+  "base_artist": "かぐや姫",
+  "createdAt": "2026-02-23T08:11:20.114391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "イルカ",
+      "has_synced": true,
+      "path": "select/01_なごり雪_イルカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "PENICILLIN",
+      "has_synced": false,
+      "path": "select/02_なごり雪_PENICILLIN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "イルカ",
+      "has_synced": true,
+      "path": "select/03_なごり雪_イルカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なごり雪/イルカ",
+      "artist": "イルカ",
+      "has_synced": true,
+      "path": "select/04_なごり雪_イルカ_イルカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "かぐや姫",
+      "has_synced": true,
+      "path": "select/05_なごり雪_かぐや姫.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なごり雪 (Version 2002)",
+      "artist": "Iruka",
+      "has_synced": true,
+      "path": "select/06_なごり雪_(Version_2002)_Iruka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "Kaguyahime",
+      "has_synced": true,
+      "path": "select/07_なごり雪_Kaguyahime.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/08_なごり雪_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "Fuyumi Sakamoto",
+      "has_synced": true,
+      "path": "select/09_なごり雪_Fuyumi_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "Aki Yashiro",
+      "has_synced": false,
+      "path": "select/10_なごり雪_Aki_Yashiro.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/11_なごり雪_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/12_なごり雪_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "かぐや姫",
+      "has_synced": false,
+      "path": "select/13_なごり雪_かぐや姫.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "イルカ",
+      "has_synced": false,
+      "path": "select/14_なごり雪_イルカ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "JINDOU",
+      "has_synced": true,
+      "path": "select/15_なごり雪_JINDOU.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "平原綾香",
+      "has_synced": true,
+      "path": "select/16_なごり雪_平原綾香.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "なごり雪",
+      "artist": "德永英明",
+      "has_synced": true,
+      "path": "select/17_なごり雪_德永英明.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "なごり雪 - Nagori Yuki",
+      "artist": "Fuyumi Sakamoto",
+      "has_synced": true,
+      "path": "select/18_なごり雪_-_Nagori_Yuki_Fuyumi_Sakamoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なごり雪",
+      "artist": "かぐや姫",
+      "has_synced": false,
+      "path": "select/pl_01_なごり雪_かぐや姫.txt"
+    }
+  ]
+}
